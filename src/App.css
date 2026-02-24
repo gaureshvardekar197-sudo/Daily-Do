@@ -1,0 +1,8 @@
+/* In your main component or global CSS */
+@media (max-width: 768px) {
+  .mobile-container {
+    padding: 0.75rem !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+}
